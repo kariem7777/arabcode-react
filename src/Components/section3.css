@@ -1,0 +1,45 @@
+.Image0{
+position: absolute;
+width: 40%;
+height: 400px;
+top:-100px;
+left: 60%;
+background-image: url(../Assets/Images/decor5.png);
+background-size: cover;
+z-index: 1;
+}
+
+.Image1{
+    position: absolute;
+    width: 100px;
+    height: 200px;
+    bottom: 0;
+    background-image: url(../Assets/Images/decor4.png);
+z-index: 1;
+background-size: cover;
+    }
+
+    
+.Image2{
+position: absolute;
+width: 100px;
+height: 300px;
+bottom: 0;
+right: 0;
+z-index: 1;
+background-image: url(../Assets/Images/decor6.png);
+background-size: cover;
+}
+
+        
+.Image4{
+position: absolute;
+width: 100px;
+height: 200px;
+top: -100px;
+left: 0;
+background-image: url(../Assets/Images/decor7.png);
+background-size: cover;
+}
+    
+            

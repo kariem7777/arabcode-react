@@ -1,0 +1,47 @@
+*{
+    font-family: 'Madiana';
+}
+.lastNav{
+    gap:25px;
+}
+nav{
+    gap:15px;
+    direction: rtl;
+}
+.navLightMode{
+    background-color: #EDEDED !important;
+    
+    
+}
+.navDarkMode{
+    background-color: #000000 !important;
+}
+.nav-Items-DarkMode a{
+    color:white !important;
+}
+.nav-Items-LightMode a{
+    color:rgb(0, 0, 0);
+}
+.LogoImg{
+    width: 50px;
+    height:40px;
+}
+.icon{
+    cursor:pointer;
+}
+.SignupButton{
+    background-color: #008E5A ;
+    color:white;
+}
+@media screen and (max-width: 990px) {
+    .lastNav {
+      display: flex;
+      flex-direction: row; /* Change the flex direction to column for small screens */
+      justify-content: end;
+    }
+  
+    .icon {
+      justify-content: center;
+      align-items: center;
+    }
+  }

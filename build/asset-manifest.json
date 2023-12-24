@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-arabcode/static/css/main.0df7b11e.css",
+    "main.js": "/react-arabcode/static/js/main.91e6c6d2.js",
+    "static/js/787.dd21ab4e.chunk.js": "/react-arabcode/static/js/787.dd21ab4e.chunk.js",
+    "static/media/Test.mp4": "/react-arabcode/static/media/Test.ed4b3f19ca3f56fe90bf.mp4",
+    "static/media/LandingSectionBGDark.png": "/react-arabcode/static/media/LandingSectionBGDark.98311c4c2afd802ec39d.png",
+    "static/media/LandingSectionBG.png": "/react-arabcode/static/media/LandingSectionBG.3b4d8296d3bba9ba445a.png",
+    "static/media/p4.png": "/react-arabcode/static/media/p4.7a21fbf4b3b93f746abf.png",
+    "static/media/p5.png": "/react-arabcode/static/media/p5.fdb39abcf76118af056e.png",
+    "static/media/MadanArabicBold.ttf": "/react-arabcode/static/media/MadanArabicBold.fdcd940cdd27b316273f.ttf",
+    "static/media/MadaniArabicSemiBold.ttf": "/react-arabcode/static/media/MadaniArabicSemiBold.2fa121d1ab7b3156c65f.ttf",
+    "static/media/MadaniArabicMedium.ttf": "/react-arabcode/static/media/MadaniArabicMedium.6f3cfceb8644d1131c4e.ttf",
+    "static/media/MadaniArabicRegular.ttf": "/react-arabcode/static/media/MadaniArabicRegular.c161142bca18b7d2b49e.ttf",
+    "static/media/BG-Dark.png": "/react-arabcode/static/media/BG-Dark.d5d77f3116a7f5bed9d5.png",
+    "static/media/BG-White.png": "/react-arabcode/static/media/BG-White.515bb36c60ee562ef4e9.png",
+    "static/media/p1.png": "/react-arabcode/static/media/p1.e9b73b86ab5fcc1a8bc1.png",
+    "static/media/decor5.png": "/react-arabcode/static/media/decor5.068110f5adb9ceef8c06.png",
+    "static/media/Logo.png": "/react-arabcode/static/media/Logo.86a6e04eb59731471084.png",
+    "static/media/p3.png": "/react-arabcode/static/media/p3.f6865cad17304bccb336.png",
+    "static/media/decor7.png": "/react-arabcode/static/media/decor7.651bac0d8101637ce147.png",
+    "static/media/decor.png": "/react-arabcode/static/media/decor.bab971ee4c87b9ef54dd.png",
+    "static/media/decor6.png": "/react-arabcode/static/media/decor6.43df5be2f8d3a2815cf1.png",
+    "static/media/decor4.png": "/react-arabcode/static/media/decor4.3775733af1b974ecbb47.png",
+    "static/media/p2.png": "/react-arabcode/static/media/p2.0b29f140064a40bdc6fe.png",
+    "static/media/decor3.png": "/react-arabcode/static/media/decor3.ea0f6ee3126e7533224a.png",
+    "static/media/LogoDark.png": "/react-arabcode/static/media/LogoDark.27d8ec81b793f4304b5d.png",
+    "index.html": "/react-arabcode/index.html",
+    "main.0df7b11e.css.map": "/react-arabcode/static/css/main.0df7b11e.css.map",
+    "main.91e6c6d2.js.map": "/react-arabcode/static/js/main.91e6c6d2.js.map",
+    "787.dd21ab4e.chunk.js.map": "/react-arabcode/static/js/787.dd21ab4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0df7b11e.css",
+    "static/js/main.91e6c6d2.js"
+  ]
+}

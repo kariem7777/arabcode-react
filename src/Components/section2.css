@@ -1,0 +1,106 @@
+*{z-index: 3;}
+
+.yarab {
+    position: absolute; /* Change to fixed */
+    top: -60px;
+    left:0;
+    width: 100%;
+    height: 111%; 
+    background-image: url('../Assets/Images/BG-White.png');
+    background-size: cover;
+    background-position: center;
+    z-index: 2;
+}
+.TopBanner{
+    position: absolute;
+    width: 100%;
+    height: 35px;;
+    background-color: #008E5A;
+}
+.TopRight{
+    position: absolute;
+    right: 12;
+    width: 20%;
+    height: 40px;
+    background-color: #FFF;
+}
+.TopRight p {
+    font-weight: 900;
+}
+
+.leftScroll{
+    margin-top: 50px;
+    margin-left: 5px;
+    border-radius: 10px;
+    height: 240px;
+    width: 5px;
+    background-color: #000;
+    position: absolute;
+    left: 0;
+}
+
+.code-box {
+    padding: 0;
+    display: flex;
+    background-color: #FFF;
+    border: 2px solid #008E5A;
+    border-radius: 5px;
+    direction: rtl; 
+    height: 320px;
+}
+
+.line-numbers {
+    margin-top: 70px;
+    flex-shrink: 0;
+    background-color: #FFF;
+    border-right: 1px solid #FFF;
+    text-align: right;
+    padding:3px;
+}
+
+.line-numbers span {
+    display: block;
+}
+
+.code-content {
+    margin-top: 70px;
+    direction: rtl;
+    flex-grow: 1;
+    text-align: start;
+}
+/* Common styles for the typing animation */
+.line, .Result {
+    margin: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+
+.drowdown-btn{
+    color: black;
+    direction: rtl;
+    margin-right: 55px !important;
+}
+
+
+@media (max-width: 922px) {
+    /* Reverse the order of flex container's children in a column layout */
+    .section2 {
+      flex-direction: column-reverse;
+      
+    }
+    .code-box{
+        margin-bottom: 20px;
+    }
+    .Icon{
+        font-size: 10px;
+    }
+
+  }
+  @media (max-width: 400px) {
+    .Icon{
+        font-size: 5px;
+    }
+
+  }

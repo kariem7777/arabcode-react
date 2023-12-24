@@ -1,0 +1,53 @@
+.containerLight {
+    position: relative;
+    background-image: url(../Assets/Images/LandingSectionBG.png);
+    background-position: center;
+    background-size: cover;
+}
+.containerDark {
+    position: relative;
+    background-image: url(../Assets/Images/LandingSectionBGDark.png);
+    background-position: center;
+    background-size: cover;
+}
+  
+.FirstColumn {
+    text-align: right;
+    direction: rtl; 
+}
+.FirstColumn h1{
+    color:#008E5A;
+    font-weight: 500;
+}
+.FirstColumn p{
+    font-family: 'Madiana';
+    font-weight: 300 !important;
+}
+.FirstSectionText {
+    width:450px;
+}
+
+.VersionText{
+    color:#0BDBDD;
+}
+.LandingPageBtn{
+    color:white;
+    background-color: #008E5A;
+}
+
+@media screen and (max-width: 1085px) {
+    .FirstColumn {
+        width: 100%; /* Make it take up the full width */
+        text-align: center; /* Center the content within the column */
+        margin-top: 20px; /* Add some top margin if needed */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    iframe,.container-fluid, .FirstSectionText{
+        width: 100%;
+    }
+   
+
+  }

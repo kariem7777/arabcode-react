@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Madiana';
+    src: url('./Assets/Fonts/MadanArabicBold.ttf') format('truetype');
+    font-weight: 900; /* Adjust to a valid value within the range 100-900 */
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Madiana';
+    src: url('./Assets/Fonts/MadaniArabicMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Madiana';
+    src: url('./Assets/Fonts/MadaniArabicSemiBold.ttf') format('truetype');
+    font-weight: 800; /* Adjust to a valid value within the range 100-900 */
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Madiana';
+    src: url('./Assets/Fonts/MadaniArabicRegular.ttf') format('truetype');
+    font-weight: 300; /* Adjust to a valid value within the range 100-900 */
+    font-style: normal;
+  }
